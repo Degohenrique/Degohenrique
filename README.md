@@ -1,12 +1,10 @@
 ### Olá! Eu sou o Diego👋
 ### Desenvolvedor back-end
 
-## Tecnologias e Ferramentas
-
-
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+## Tecnologias e Ferramentas
 
 <div>
 <img align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
