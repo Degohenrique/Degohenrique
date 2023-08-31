@@ -22,5 +22,7 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   </div>
 
 
-![Snake animation](https://github.com/Degohenrique/Degohenrique/blob/master/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Degohenrique/Degohenrique/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
