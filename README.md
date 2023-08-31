@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Diego👋
-### back-end Desenvolvedor aluno da [CubosAcademy](cubosAcademy)
+### Desenvolvedor back-end Aluno da [CubosAcademy](cubosAcademy)
 
   
 
