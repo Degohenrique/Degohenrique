@@ -20,3 +20,6 @@ title="Node" alt="Node" width="40" height="40"/>&nbsp;
 title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img align="center"src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>&nbsp;
   </div>
+
+![Snake animation](github_user_name: Degohenrique
+          svg_out_path: dist/github-contribution-grid-snake.svg)
