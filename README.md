@@ -21,4 +21,4 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img align="center"src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>&nbsp;
   </div>
 
-![Snake animation](https://github.com/Degohenrique/Degohenrique/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Degohenrique/Degohenrique.git/blob/output/github-contribution-grid-snake.svg)
