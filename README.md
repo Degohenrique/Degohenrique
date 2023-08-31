@@ -2,7 +2,7 @@
 ### back-end Desenvolvedor
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Dego GitHub stats](https://github-readme-stats.vercel.app/api?username=Degohenrique_icons=true&theme=transparent)
 
 ## Tecnologias e Ferramentas
 
