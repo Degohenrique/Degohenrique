@@ -24,5 +24,4 @@ title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 
 ![Snake animation](https://github.com/Degohenrique/Degohenrique/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
