@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego👋
 ### Desenvolvedor back-end 
-### Aluno da [CubosAcademy](https://cubos.academy/cursos/desenvolvimento-de-software) experiencia desde do inicio de 2023
+### Aluno da [CubosAcademy](https://cubos.academy/cursos/desenvolvimento-de-software) experiencia desde inicio de 2023
 
   
 
