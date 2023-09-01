@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Diego👋
-### Desenvolvedor back-end 
+### back-end Desenvolvedor
 ### Aluno da [CubosAcademy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 
   
