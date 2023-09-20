@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Diego👋
-### back-end Desenvolvedor
+
+"Dev e apaixonado por back-end e pronto para codar! 💻🚀 Empolgado em transformar linhas de código em soluções incríveis. Adoro desafios e estou pronto para aprender e crescer com uma equipe top! Vamos construir o futuro juntos? 😃 #DesenvolvedorBackend
+
+
 ### Aluno da [CubosAcademy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 
   
